@@ -19,7 +19,7 @@ My name is Abderrahmane Dachoucha, a Web Developper, Youcode Student, from Moroc
 
 ## 📊 **My stats:**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=im-dachoucha&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=im-dachoucha&show_icons=true&theme=react)
 
 ## 🔥 Streak Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=im-dachoucha&theme=cobalt" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=im-dachoucha&theme=react" />
