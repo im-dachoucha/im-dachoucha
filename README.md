@@ -6,8 +6,8 @@
 
 My name is Abderrahmane Dachoucha, a Web Developper, Youcode Student, from Morocco.🇲🇦 <br />
 
-- 🌱 I’m currently learning ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB), ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-- ⚡ Fun fact: I love formula 1 🏎 (I used to use arch btw ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge))
+- 🌱 I’m currently learning ![React](https://img.shields.io/badge/react-%2320232a.svg?style=Flat-square&logo=react&logoColor=%2361DAFB), ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=Flat-square&logo=node.js&logoColor=white)
+- ⚡ Fun fact: I love formula 1 🏎 (I used to use arch btw ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=Flat-square))
 
 ## Where you can find me :
 <p>
