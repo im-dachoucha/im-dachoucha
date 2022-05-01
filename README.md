@@ -15,15 +15,11 @@ My name is Abderrahmane Dachoucha, a Web Developper, Youcode Student, from Moroc
   <a href="https://www.hackerrank.com/abderrahmane7?hr_r=1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height=25></a>
 </p>
 
-<div align="center">
-  ![full-stack-development](https://user-images.githubusercontent.com/77829205/124051039-9ab94900-da13-11eb-9654-1d79bf3cfe37.gif)
-</div>
+![full-stack-development](https://user-images.githubusercontent.com/77829205/124051039-9ab94900-da13-11eb-9654-1d79bf3cfe37.gif)
 
 ## 📊 **My stats:**
 
-<div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=im-dachoucha&show_icons=true&theme=cobalt)
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=im-dachoucha&show_icons=true&theme=cobalt)
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=im-dachoucha&theme=cobalt" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=im-dachoucha&theme=cobalt" />
